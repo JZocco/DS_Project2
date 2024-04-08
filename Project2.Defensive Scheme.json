@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6613505019f9fc1ce4b53d30"
+  },
+  "Name": "Run Defense",
+  "Position Value #1": "DT",
+  "Position Value #2": "MLB",
+  "Position Value #3": "RE",
+  "Position Value #4": "LE",
+  "Position Value #5": "SS"
+},
+{
+  "_id": {
+    "$oid": "661351c819f9fc1ce4b53d31"
+  },
+  "Name": "Pass Defense",
+  "Position Value #1": "CB",
+  "Position Value #2": "FS",
+  "Position Value #3": "SS",
+  "Position Value #4": "MLB",
+  "Position Value #5": "ROLB"
+},
+{
+  "_id": {
+    "$oid": "661351e219f9fc1ce4b53d32"
+  },
+  "Name": "Balanced Defense",
+  "Position Value #1": "MLB",
+  "Position Value #2": "SS",
+  "Position Value #3": "RE",
+  "Position Value #4": "LOLB",
+  "Position Value #5": "FS"
+}]

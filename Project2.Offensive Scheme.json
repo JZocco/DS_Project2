@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6613524c19f9fc1ce4b53d39"
+  },
+  "Name": "Inside Run",
+  "Position Value #1": "RB",
+  "Position Value #2": "C",
+  "Position Value #3": "FB",
+  "Position Value #4": "LG",
+  "Position Value #5": "RG"
+},
+{
+  "_id": {
+    "$oid": "661352b219f9fc1ce4b53d3a"
+  },
+  "Name": "Outside Run",
+  "Position Value #1": "RB",
+  "Position Value #2": "LT",
+  "Position Value #3": "RT",
+  "Position Value #4": "TE",
+  "Position Value #5": "FB"
+},
+{
+  "_id": {
+    "$oid": "661352d719f9fc1ce4b53d3b"
+  },
+  "Name": "Short Pass",
+  "Position Value #1": "QB",
+  "Position Value #2": "TE",
+  "Position Value #3": "WR",
+  "Position Value #4": "RB",
+  "Position Value #5": "RG"
+},
+{
+  "_id": {
+    "$oid": "661352eb19f9fc1ce4b53d3c"
+  },
+  "Name": "Medium Pass",
+  "Position Value #1": "QB",
+  "Position Value #2": "WR",
+  "Position Value #3": "TE",
+  "Position Value #4": "RG",
+  "Position Value #5": "LT"
+},
+{
+  "_id": {
+    "$oid": "661352fc19f9fc1ce4b53d3d"
+  },
+  "Name": "Deep Pass",
+  "Position Value #1": "QB",
+  "Position Value #2": "WR",
+  "Position Value #3": "LT",
+  "Position Value #4": "RT",
+  "Position Value #5": "TE"
+}]
